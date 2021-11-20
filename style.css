@@ -1,0 +1,123 @@
+
+*{
+    font-size: 14px;
+}
+.inp-width{
+    width: 450px;
+   
+}
+.nav-radius-cus{
+    border: none;
+    outline: none;
+    border: 2px solid #FF6347;
+    background-color: white;
+    border-radius: 25px;
+    color: black;
+}
+
+
+.nav-item-cus-border{
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background-color: white;
+}
+
+.nav-item-cus-border:focus{
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background-color: white;
+}
+.border-none{
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border-radius:0px  25px 25px 0px;
+}
+.border-none:focus{
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border-radius:0px  25px 25px 0px;
+}
+.btn-cus {
+
+    width: 250px;
+    border-radius: 15px;
+
+    background-color: #F2CB8E;;
+    
+  }
+.btn-cus-2{
+    width: 100%;
+    background-color: #FF4F00;
+}
+.cust-bord{
+    border-bottom: 1px solid rgba(220,222,227,.7);;
+}
+.imgbg{
+    background-image: url("images/bg-img.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 180px;
+   
+}
+
+
+.card-borde-radius{
+    border-radius:14px;
+  
+
+}
+
+
+.bg-img-thing{
+    background-image: url("images/thing_img.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;    
+}
+
+.bg-img-thing-3d{
+    background-image: url("images/3d-glasses.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;    
+}
+
+.bg-img-thing-sh{
+    background-image: url("images/shirt.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;    
+}
+.bg-img-thing-let{
+    background-image: url("images/bg-img-11.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;    
+}
+.cus-button{
+    background-color: white;
+    border: 1px white solid;
+    border-radius: 15px;
+
+}
+.border-danger{
+    border-color: lightblue !important;
+}
+.btn_customized{
+    padding: 4px;
+    border-radius: 10px;
+    border-color: white;
+    background-color: tomato;
+}
+.btn-primary{
+    background-color: tomato;
+    border-color: white;
+    border-radius: 15px;
+}
+.input-field-cus{
+    width: 308px;
+}
